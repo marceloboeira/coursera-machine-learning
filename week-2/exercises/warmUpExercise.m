@@ -8,6 +8,6 @@ A = [];
 %               In octave, we return values by defining which variables
 %               represent the return values (at the top of the file)
 %               and then set them accordingly.
-
+A = eye(5);
 % ===========================================
 end

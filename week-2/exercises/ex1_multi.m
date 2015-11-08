@@ -56,9 +56,9 @@ X = [ones(m, 1) X];
 % ====================== YOUR CODE HERE ======================
 % Instructions: We have provided you with the following starter
 %               code that runs gradient descent with a particular
-%               learning rate (alpha). 
+%               learning rate (alpha).
 %
-%               Your task is to first make sure that your functions - 
+%               Your task is to first make sure that your functions -
 %               computeCost and gradientDescent already work with 
 %               this starter code and support multiple variables.
 %
@@ -116,7 +116,7 @@ pause;
 fprintf('Solving with normal equations...\n');
 
 % ====================== YOUR CODE HERE ======================
-% Instructions: The following code computes the closed form 
+% Instructions: The following code computes the closed form
 %               solution for linear regression using the normal
 %               equations. You should complete the code in 
 %               normalEqn.m
